@@ -1,0 +1,38 @@
+
+.App-link {
+  color: #61dafb;
+}
+
+.custom-section .card{
+    border: none;
+}
+/* ul.nav.navbar-nav li{
+    padding-bottom: 10px;
+} */
+
+
+
+a:visited {
+  color: 	#000000;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2508a5;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+
+.table .thead-light th {
+    color: #495057;
+    background-color: rgba(161, 195, 231, 0.56);
+    border-color: #1c2834;
+}
+ .css-g1d714-ValueContainer{
+       height: 49px !important;
+}
+ 
+
+ 
